@@ -1,0 +1,6 @@
+2023-08-06 02:50:08.901287 - Initialized conversion of CBT307
+2023-08-06 02:50:08.924824 - Received CBT.V505.FILE307.PDS from FILE307.XMI 
+2023-08-06 02:50:08.927137 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE307.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:50:08.928266 - Found $$$DOC.txt (text/plain) in CBT.V505.FILE307.PDS, moved to PDS/$$$DOC
+2023-08-06 02:50:08.929280 - Found @FILE307.txt (text/plain) in CBT.V505.FILE307.PDS, moved to PDS/@FILE307
+2023-08-06 02:50:08.930172 - Found IEV90.txt (text/plain) in CBT.V505.FILE307.PDS, moved to PDS/IEV90
